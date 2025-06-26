@@ -1,4 +1,4 @@
-# 🛡️ Guardio – Backend
+# 🛡️ Guardio
 
 **Guardio** é um projeto backend para um sistema de autenticação com Spring Boot, usando JWT, Spring Security e H2 em memória. Ideal para aplicações fullstack com Angular, React ou qualquer cliente que consuma APIs REST seguras.
 
